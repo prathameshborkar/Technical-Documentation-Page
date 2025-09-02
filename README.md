@@ -22,6 +22,4 @@ It provides a simple, responsive layout with a navigation bar and multiple secti
 - **HTML5** – structure & content  
 - **CSS3** – styling & layout  
 
----
-
-## 📂 Project Structure
+Live Demo link - (https://prathameshborkar.github.io/Technical-Documentation-Page/)
